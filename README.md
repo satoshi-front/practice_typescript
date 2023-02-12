@@ -1,0 +1,2 @@
+# practice_typescript
+typescriptの練習リポジトリ
