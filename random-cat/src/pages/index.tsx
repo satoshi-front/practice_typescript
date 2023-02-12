@@ -40,11 +40,11 @@ const IndexPage: NextPage<IndexPageProps> = ({ initialCatImageUrl }) => {
       <button
         onClick={handleClick}
         style={{
-          backgroundColor: "#319795",
+          backgroundColor: "red",
           border: "none",
           borderRadius: "4px",
           color: "white",
-          padding: "4px 8px",
+          padding: "10px 14px",
         }}
       >
         きょうのにゃんこ🐱
